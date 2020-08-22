@@ -1,0 +1,5 @@
+#lang racket
+;; Funcion que calcula el area de un cono de base circular
+;; area-cono: number number -> number
+(define (area-cono d g)
+  (+ (* pi (/ d 2) g) (* pi  (*(/ d 2) (/ d 2)))))
