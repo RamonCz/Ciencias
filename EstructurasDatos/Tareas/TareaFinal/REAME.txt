@@ -1,0 +1,5 @@
+Nombre del alumno: Cruz Perez Ramon
+Numero de cuenta: 315008148
+
+Nota: En 'Archivo.Nuevo' se puede trabajar con varias ventanas, pero cuando cierras una se cierran todas.
+tambien en 'Diccionario' cuando se sale de diccionario tarda en guardar todas las palabras.

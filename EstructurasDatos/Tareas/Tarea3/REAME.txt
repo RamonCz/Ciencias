@@ -1,0 +1,7 @@
+Nombre del alumno: Cruz Perez Ramon
+Numero de cuenta: 315008148
+
+El laberinto en cuando resuelve puede que de mas de una solucion.
+La clase Principal tiene el metodo main.
+
+Nota: use la clase ListaCircular que se uso en la tarea anterior.
