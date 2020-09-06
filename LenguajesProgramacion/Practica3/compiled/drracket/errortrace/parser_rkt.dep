@@ -1,0 +1,1 @@
+("7.5" racket ("73554894788fe01205e2ab7a6c31d27b177c3694" . "39f175e026363c7267fb04f26d6960d3cda71e7b") #"/home/ramon/Documents/LenguajesProgramacion/practica3/./grammars.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"plai" #"lang" #"reader.rkt") (collects #"plai" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
