@@ -1,0 +1,4 @@
+Nombre del alumno: Cruz Perez Ramon
+Numero de cuenta: 315008148
+En Caja.java se encuentra el metodo main
+El timpo se maneja asi 1 minuto = 1 hora, 1 segundo = 1 minuto

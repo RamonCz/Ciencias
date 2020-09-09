@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.Light.Distant?>
+<?import javafx.scene.effect.Lighting?>
+<?import javafx.scene.effect.Shadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="404.0" prefWidth="354.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="FXMLController">
+   <children>
+      <Button fx:id="siete" layoutX="23.0" layoutY="211.0" mnemonicParsing="false" onAction="#onActionSiete" prefHeight="34.0" prefWidth="62.0" text="7">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="dos" layoutX="101.0" layoutY="310.0" mnemonicParsing="false" onAction="#onActionDos" prefHeight="34.0" prefWidth="62.0" text="2">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="uno" layoutX="23.0" layoutY="310.0" mnemonicParsing="false" onAction="#onActionUno" prefHeight="34.0" prefWidth="62.0" text="1">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="cinco" layoutX="101.0" layoutY="260.0" mnemonicParsing="false" onAction="#onActionCinco" prefHeight="34.0" prefWidth="62.0" text="5">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="tres" layoutX="179.0" layoutY="310.0" mnemonicParsing="false" onAction="#onActionTres" prefHeight="34.0" prefWidth="62.0" text="3">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="seis" layoutX="179.0" layoutY="260.0" mnemonicParsing="false" onAction="#onActionSeis" prefHeight="34.0" prefWidth="62.0" text="6">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="cuatro" layoutX="23.0" layoutY="260.0" mnemonicParsing="false" onAction="#onActionCuatro" prefHeight="34.0" prefWidth="62.0" text="4">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="ocho" layoutX="101.0" layoutY="211.0" mnemonicParsing="false" onAction="#onActionOcho" prefHeight="34.0" prefWidth="62.0" text="8">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="nueve" layoutX="179.0" layoutY="211.0" mnemonicParsing="false" onAction="#onActionNueve" prefHeight="34.0" prefWidth="62.0" text="9">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="multiplicacion" layoutX="261.0" layoutY="211.0" mnemonicParsing="false" onAction="#onActionMultiplicacion" prefHeight="34.0" prefWidth="62.0" text="*">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="menos" layoutX="261.0" layoutY="260.0" mnemonicParsing="false" onAction="#onActionMenos" prefHeight="34.0" prefWidth="62.0" text="-">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="mas" layoutX="261.0" layoutY="310.0" mnemonicParsing="false" onAction="#onActionMas" prefHeight="34.0" prefWidth="62.0" text="+">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="igual" layoutX="176.0" layoutY="356.0" mnemonicParsing="false" onAction="#onActionIgual" prefHeight="34.0" prefWidth="151.0" text="=">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="division" layoutX="261.0" layoutY="167.0" mnemonicParsing="false" onAction="#onActionDivision" prefHeight="34.0" prefWidth="62.0" text="/">
+         <font>
+            <Font size="17.0" />
+         </font></Button>
+      <Button fx:id="raiz" layoutX="23.0" layoutY="167.0" mnemonicParsing="false" onAction="#onActionRaiz" prefHeight="34.0" prefWidth="62.0" text="sqr">
+         <font>
+            <Font size="16.0" />
+         </font></Button>
+      <Button fx:id="borrar" layoutX="23.0" layoutY="120.0" mnemonicParsing="false" onAction="#onActionBorrar" prefHeight="34.0" prefWidth="62.0" text="C">
+         <font>
+            <Font size="15.0" />
+         </font></Button>
+      <Button fx:id="tan" layoutX="261.0" layoutY="120.0" mnemonicParsing="false" onAction="#onActionTan" prefHeight="34.0" prefWidth="62.0" text="Tan">
+         <font>
+            <Font size="15.0" />
+         </font></Button>
+      <Button fx:id="cos" layoutX="179.0" layoutY="120.0" mnemonicParsing="false" onAction="#onActionCos" prefHeight="34.0" prefWidth="62.0" text="Cos">
+         <font>
+            <Font size="15.0" />
+         </font></Button>
+      <Button fx:id="sin" layoutX="101.0" layoutY="120.0" mnemonicParsing="false" onAction="#onActionSin" prefHeight="34.0" prefWidth="62.0" text="Sin">
+         <font>
+            <Font size="15.0" />
+         </font></Button>
+         <Button fx:id="cero" layoutX="23.0" layoutY="356.0" mnemonicParsing="false" onAction="#onActionCero" prefHeight="34.0" prefWidth="62.0" text="0">
+            <font>
+               <Font size="17.0" />
+            </font>
+         </Button>
+         <Button fx:id="punto" layoutX="101.0" layoutY="356.0" mnemonicParsing="false" onAction="#onActionPunto" prefHeight="34.0" prefWidth="62.0" text=".">
+            <font>
+               <Font size="17.0" />
+            </font>
+         </Button>
+         <Button fx:id="cierra" layoutX="179.0" layoutY="167.0" mnemonicParsing="false" onAction="#onActionCierra" prefHeight="34.0" prefWidth="62.0" text=")">
+            <font>
+               <Font size="17.0" />
+            </font>
+         </Button>
+         <Button fx:id="abre" layoutX="101.0" layoutY="167.0" mnemonicParsing="false" onAction="#onActionAbre" prefHeight="34.0" prefWidth="62.0" text="(">
+            <font>
+               <Font size="17.0" />
+            </font>
+         </Button>
+      <Label fx:id="label" layoutX="25.0" layoutY="43.0" prefHeight="46.0" prefWidth="302.0" style="-fx-background-color: white;">
+         <effect>
+            <Lighting>
+               <bumpInput>
+                  <Shadow />
+               </bumpInput>
+               <light>
+                  <Light.Distant />
+               </light>
+            </Lighting>
+         </effect>
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+
+
+   </children>
+</AnchorPane>

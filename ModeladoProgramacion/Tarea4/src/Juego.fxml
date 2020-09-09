@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.BoxBlur?>
+<?import javafx.scene.effect.DisplacementMap?>
+<?import javafx.scene.effect.FloatMap?>
+<?import javafx.scene.effect.Light.Distant?>
+<?import javafx.scene.effect.Lighting?>
+<?import javafx.scene.effect.Shadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Ellipse?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="544.0" prefWidth="721.0" style="-fx-background-color: #008BFF;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="JuegoController">
+   <children>
+      <Ellipse fx:id="vi" layoutX="361.0" layoutY="251.0" radiusX="285.0" radiusY="225.0" stroke="BLACK" strokeType="INSIDE" style="visibility: true;">
+         <effect>
+            <DisplacementMap>
+               <mapData>
+                  <FloatMap />
+               </mapData>
+            </DisplacementMap>
+         </effect>
+      </Ellipse>
+      <Circle fill="#02010a" layoutX="361.0" layoutY="251.0" radius="225.0" stroke="BLACK" strokeType="INSIDE">
+         <effect>
+            <BoxBlur />
+         </effect>
+      </Circle>
+      <Label fx:id="puntos" layoutX="40.0" layoutY="26.0" prefHeight="34.0" prefWidth="187.0" text="Puntos: ">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Button fx:id="amarrillo" layoutX="196.0" layoutY="104.0" mnemonicParsing="false" onAction="#accionAmarillo" prefHeight="125.0" prefWidth="121.0" style="-fx-background-color: yellow;">
+         <effect>
+            <Lighting diffuseConstant="1.33">
+               <bumpInput>
+                  <Shadow />
+               </bumpInput>
+               <light>
+                  <Light.Distant color="#eeee7c" />
+               </light>
+            </Lighting>
+         </effect></Button>
+      <Button fx:id="verde" layoutX="409.0" layoutY="104.0" mnemonicParsing="false" onAction="#accionVerde" prefHeight="125.0" prefWidth="121.0" style="-fx-background-color: green;" textFill="#754343">
+         <effect>
+            <Lighting diffuseConstant="1.33">
+               <bumpInput>
+                  <Shadow />
+               </bumpInput>
+               <light>
+                  <Light.Distant color="#74e47c" />
+               </light>
+            </Lighting>
+         </effect></Button>
+      <Button fx:id="azul" layoutX="196.0" layoutY="289.0" mnemonicParsing="false" onAction="#accionAzul" prefHeight="125.0" prefWidth="121.0" style="-fx-background-color: blue;">
+         <effect>
+            <Lighting>
+               <bumpInput>
+                  <Shadow />
+               </bumpInput>
+               <light>
+                  <Light.Distant color="#92ccff" />
+               </light>
+            </Lighting>
+         </effect></Button>
+      <Button fx:id="naranja" layoutX="409.0" layoutY="289.0" mnemonicParsing="false" onAction="#accionNaranaja" prefHeight="125.0" prefWidth="121.0" style="-fx-background-color: orange;">
+         <effect>
+            <Lighting diffuseConstant="1.24">
+               <bumpInput>
+                  <Shadow />
+               </bumpInput>
+               <light>
+                  <Light.Distant color="#ffbe84" />
+               </light>
+            </Lighting>
+         </effect></Button>
+      <Button fx:id="rojo" layoutX="300.0" layoutY="200.0" mnemonicParsing="false" onAction="#accionRojo" prefHeight="125.0" prefWidth="121.0" style="-fx-background-color: red;">
+         <effect>
+            <Lighting diffuseConstant="1.5">
+               <bumpInput>
+                  <Shadow />
+               </bumpInput>
+               <light>
+                  <Light.Distant color="#c36767" />
+               </light>
+            </Lighting>
+         </effect></Button>
+      <Button fx:id="empezar" layoutX="40.0" layoutY="476.0" mnemonicParsing="false" onAction="#accionEmpezar" prefHeight="51.0" prefWidth="164.0" text="Empezar">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

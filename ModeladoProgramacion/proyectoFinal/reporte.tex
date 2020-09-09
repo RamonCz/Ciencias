@@ -1,0 +1,30 @@
+\documentclass[12pt]{article}
+\title{Proyecto Final}
+\author{Cruz Perez Ramon\\315008148}
+
+\begin{document}
+%\footnote{ramoncruz@ciencias.unam.mx}
+\maketitle
+
+\section{Planteamiento del problema}
+Creacion de un Supermercado con Cajas, Clientes, todo con hilos y concurrentemente.
+
+\section{Objetivo}
+Aprender a modelar mejor un programa, asi como poner en practica todo lo aprendido durante todo el semestre.
+
+\section{Desarrollo}
+Se empezo la creacion de los productos los cuales se modelaron con la clase Producto, para crear un nuevo producto se usa FabricaDeProductos, lo cual fue basada en el FactoryMethod.\\ Cuando se tenian los productos, se empezo con los clientes los cuales son hilos en el cual cada cliente tiene una lista de productos que se crean aleatoriamente con la FabricaDeProductos, cuando termina de crear la lista, se agrega a la cola del Supermercado con un metodo synchronized para que no se mezclen si hay mas de un cliente que se quiere formar.\\
+En el Supermercado tiene un almacen el cual es un arreglo de productos, como la lista de productos no varia decidi que sea un arreglo para facil acceso al producto gracias a su id, tambien Supermercado tiene una lista de Cajas para que cada que se desee abrir una caja solo se crea la caja y asi no gasta espacio en cajas que no son necesarias, la cola donde se forman los clientes es una lista, pues decidi que sea asi por que cuando se crean los clientes aleatoriamente y cuando se agregan a la cola(lista), el metodo abrirCaja() se encagar de ver a todo los clientes de la cola y asi saber que tipo de caja conviene abrir si una rapida o no, ademas las cajas cada que atienden clientes le piden al Supermercado un cliente de la cola, para que no se duplique los clientes se hace con un synchronized getCola() y asi las cajas piden un cliente. \\
+Cuando una Caja pide un cliente, se crea un ticket y empiza a cobrar de la lista de productos que tiene el cliente, si no es caja rapida el producto tarda un poco mas en ser cobrado, despues se borra del almacen con un metodo synchronized elimina() de Supermercado para que se borren correctamente, en elimina(), el Gerente toma su papel, con un metodo cancela el cual con un 3 porciento de probabilidad cancela un producto, si no se cancela por el Gerente o por que ya no hay en existencia entonces si se disminuye uno el producto, una vez cobrado el producto se agrega al ticket y a un contador de la caja para llevar el nuemero de productos vendidos, una vez que se termina con la lista del cliente, se suma uno en clientes atendidos y se crea el ticket el cual se agrega a tickets, el cual es un String que guarda todo los tickets del Supermercado, y esto hace durante 10000  milisegundos, "Un Dia" , al final te da un reporte de cada Caja
+
+\section{solucion}
+Se uso FactoryMethod en Productos y Singleton en Gerente.\\
+El metodo public synchronized int getVentas() nos da el id unico de cada ticket.\\
+public synchronized void guardarTicket(String s) guarda el ticket uno a la vez para que no se escriba mal. \\  public synchronized void elimina(Producto p) elimina el producto del almacen asi como cancelar un producto con el Gerente.\\ public synchronized Cliente getCola(boolean rapida) se encagar de tomar un cliente de la cola pero debe ser un cliente para rapida o no.\\
+Cada que se cierran las cajas se crea el reporte sobre cada caja, asi como guaradar los tickets en un .txt.
+
+\section{Bibliografia}
+xD Muchas paginas de internet
+
+\footnote{ramoncruz@ciencias.unam.mx}
+\end{document}

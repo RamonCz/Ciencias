@@ -1,0 +1,1049 @@
+# 1-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 8             1     Sopa     $13    $13
+ 9             1     Maruchan     $10    $10
+ 7             3     Agua     $10    $30
+ 3             2     Arroz     $20    $40
+----------------------------------------------------
+                                      Subtotal:93.0
+                                      IVA: 0.5
+                                      Total: $94.395
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 2-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 3             1     Arroz     $20    $20
+ 9             2     Maruchan     $10    $20
+ 4             5     Manzanita Sol     $13    $65
+ 7             2     Agua     $10    $20
+ 2             5     PanBimbo     $15    $75
+ 1             2     CocaCola     $15    $30
+ 8             1     Sopa     $13    $13
+ 5             2     Frijol     $22    $44
+ 6             2     Azucar     $22    $44
+ 10             1     Cereal     $25    $25
+----------------------------------------------------
+                                      Subtotal:356.0
+                                      IVA: 0.5
+                                      Total: $361.34
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 3-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 3             1     Arroz     $20    $20
+ 5             1     Frijol     $22    $22
+ 8             1     Sopa     $13    $13
+ 1             1     CocaCola     $15    $15
+ 7             1     Agua     $10    $10
+----------------------------------------------------
+                                      Subtotal:80.0
+                                      IVA: 0.5
+                                      Total: $81.2
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 5-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+----------------------------------------------------
+                                      Subtotal:0.0
+                                      IVA: 0.5
+                                      Total: $0.0
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 4-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 7             3     Agua     $10    $30
+ 3             4     Arroz     $20    $80
+ 8             3     Sopa     $13    $39
+ 9             2     Maruchan     $10    $20
+ 4             10     Manzanita Sol     $13    $130
+ 10             6     Cereal     $25    $150
+ 6             4     Azucar     $22    $88
+ 1             5     CocaCola     $15    $75
+ 2             3     PanBimbo     $15    $45
+ 5             1     Frijol     $22    $22
+----------------------------------------------------
+                                      Subtotal:679.0
+                                      IVA: 0.5
+                                      Total: $689.185
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 6-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 3             1     Arroz     $20    $20
+----------------------------------------------------
+                                      Subtotal:20.0
+                                      IVA: 0.5
+                                      Total: $20.3
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 7-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 6             8     Azucar     $22    $176
+ 4             4     Manzanita Sol     $13    $52
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+----------------------------------------------------
+                                      Subtotal:228.0
+                                      IVA: 0.5
+                                      Total: $231.42
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 8-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 7             5     Agua     $10    $50
+ 5             8     Frijol     $22    $176
+ 8             3     Sopa     $13    $39
+ 10             3     Cereal     $25    $75
+ 4             2     Manzanita Sol     $13    $26
+ 6             3     Azucar     $22    $66
+ 3             2     Arroz     $20    $40
+ 1             2     CocaCola     $15    $30
+ 2             3     PanBimbo     $15    $45
+ 9             1     Maruchan     $10    $10
+----------------------------------------------------
+                                      Subtotal:557.0
+                                      IVA: 0.5
+                                      Total: $565.355
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 9-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 9             6     Maruchan     $10    $60
+ 4             6     Manzanita Sol     $13    $78
+ 6             5     Azucar     $22    $110
+ 3             4     Arroz     $20    $80
+ 2             5     PanBimbo     $15    $75
+ 7             1     Agua     $10    $10
+ 10             5     Cereal     $25    $125
+ 1             1     CocaCola     $15    $15
+ 8             2     Sopa     $13    $26
+ 5             3     Frijol     $22    $66
+----------------------------------------------------
+                                      Subtotal:645.0
+                                      IVA: 0.5
+                                      Total: $654.675
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 10-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 8             3     Sopa     $13    $39
+ 6             7     Azucar     $22    $154
+ 5             9     Frijol     $22    $198
+ 3             3     Arroz     $20    $60
+ 2             7     PanBimbo     $15    $105
+ 4             2     Manzanita Sol     $13    $26
+ 1             3     CocaCola     $15    $45
+ 9             3     Maruchan     $10    $30
+ 7             5     Agua     $10    $50
+ 10             6     Cereal     $25    $150
+----------------------------------------------------
+                                      Subtotal:857.0
+                                      IVA: 0.5
+                                      Total: $869.855
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 12-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 9             5     Maruchan     $10    $50
+ 4             3     Manzanita Sol     $13    $39
+ 1             2     CocaCola     $15    $30
+ 5             3     Frijol     $22    $66
+ 10             2     Cereal     $25    $50
+ 8             3     Sopa     $13    $39
+ 6             3     Azucar     $22    $66
+ 3             1     Arroz     $20    $20
+ 7             2     Agua     $10    $20
+ 2             1     PanBimbo     $15    $15
+----------------------------------------------------
+                                      Subtotal:395.0
+                                      IVA: 0.5
+                                      Total: $400.925
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 11-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 8             3     Sopa     $13    $39
+ 2             4     PanBimbo     $15    $60
+ 3             3     Arroz     $20    $60
+ 1             8     CocaCola     $15    $120
+ 6             7     Azucar     $22    $154
+ 7             3     Agua     $10    $30
+ 10             5     Cereal     $25    $125
+ 9             5     Maruchan     $10    $50
+ 5             4     Frijol     $22    $88
+----------------------------------------------------
+                                      Subtotal:726.0
+                                      IVA: 0.5
+                                      Total: $736.89
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 13-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 3             3     Arroz     $20    $60
+ 10             2     Cereal     $25    $50
+ 1             1     CocaCola     $15    $15
+ 8             1     Sopa     $13    $13
+ 9             1     Maruchan     $10    $10
+----------------------------------------------------
+                                      Subtotal:148.0
+                                      IVA: 0.5
+                                      Total: $150.22
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 14-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 8             1     Sopa     $13    $13
+ 4             1     Manzanita Sol     $13    $13
+----------------------------------------------------
+                                      Subtotal:26.0
+                                      IVA: 0.5
+                                      Total: $26.39
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 15-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 10             4     Cereal     $25    $100
+ 2             1     PanBimbo     $15    $15
+ 9             2     Maruchan     $10    $20
+ 5             1     Frijol     $22    $22
+ 7             2     Agua     $10    $20
+----------------------------------------------------
+                                      Subtotal:177.0
+                                      IVA: 0.5
+                                      Total: $179.655
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 16-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 7             8     Agua     $10    $80
+ 6             6     Azucar     $22    $132
+ 8             6     Sopa     $13    $78
+ 4             5     Manzanita Sol     $13    $65
+ 9             3     Maruchan     $10    $30
+ 1             3     CocaCola     $15    $45
+ 3             5     Arroz     $20    $100
+ 2             2     PanBimbo     $15    $30
+ 10             4     Cereal     $25    $100
+----------------------------------------------------
+                                      Subtotal:660.0
+                                      IVA: 0.5
+                                      Total: $669.9
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 17-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 10             1     Cereal     $25    $25
+ 9             1     Maruchan     $10    $10
+ 5             1     Frijol     $22    $22
+ 4             2     Manzanita Sol     $13    $26
+ 2             1     PanBimbo     $15    $15
+ 1             1     CocaCola     $15    $15
+----------------------------------------------------
+                                      Subtotal:113.0
+                                      IVA: 0.5
+                                      Total: $114.695
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 18-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 3             7     Arroz     $20    $140
+ 2             5     PanBimbo     $15    $75
+ 5             7     Frijol     $22    $154
+ 1             5     CocaCola     $15    $75
+ 9             3     Maruchan     $10    $30
+ 4             3     Manzanita Sol     $13    $39
+ 6             4     Azucar     $22    $88
+ 10             4     Cereal     $25    $100
+ 8             4     Sopa     $13    $52
+ 7             2     Agua     $10    $20
+----------------------------------------------------
+                                      Subtotal:773.0
+                                      IVA: 0.5
+                                      Total: $784.595
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 19-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 1             2     CocaCola     $15    $30
+ 10             5     Cereal     $25    $125
+ 3             1     Arroz     $20    $20
+ 2             1     PanBimbo     $15    $15
+ 6             2     Azucar     $22    $44
+ 9             1     Maruchan     $10    $10
+ 8             3     Sopa     $13    $39
+ 7             1     Agua     $10    $10
+----------------------------------------------------
+                                      Subtotal:293.0
+                                      IVA: 0.5
+                                      Total: $297.395
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 20-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 8             7     Sopa     $13    $91
+ 7             3     Agua     $10    $30
+ 6             3     Azucar     $22    $66
+ 2             6     PanBimbo     $15    $90
+ 5             4     Frijol     $22    $88
+ 10             6     Cereal     $25    $150
+ 4             5     Manzanita Sol     $13    $65
+ 9             4     Maruchan     $10    $40
+Producto Cancelado......... 
+Producto Cancelado......... 
+----------------------------------------------------
+                                      Subtotal:620.0
+                                      IVA: 0.5
+                                      Total: $629.3
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 21-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 1             6     CocaCola     $15    $90
+ 4             6     Manzanita Sol     $13    $78
+ 6             3     Azucar     $22    $66
+ 10             5     Cereal     $25    $125
+ 8             5     Sopa     $13    $65
+ 7             3     Agua     $10    $30
+ 5             4     Frijol     $22    $88
+ 2             2     PanBimbo     $15    $30
+ 3             4     Arroz     $20    $80
+ 9             5     Maruchan     $10    $50
+----------------------------------------------------
+                                      Subtotal:702.0
+                                      IVA: 0.5
+                                      Total: $712.53
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 22-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 10             7     Cereal     $25    $175
+ 7             3     Agua     $10    $30
+ 6             9     Azucar     $22    $198
+ 1             5     CocaCola     $15    $75
+ 9             2     Maruchan     $10    $20
+ 8             4     Sopa     $13    $52
+ 4             1     Manzanita Sol     $13    $13
+ 2             2     PanBimbo     $15    $30
+ 3             1     Arroz     $20    $20
+ 5             1     Frijol     $22    $22
+----------------------------------------------------
+                                      Subtotal:635.0
+                                      IVA: 0.5
+                                      Total: $644.525
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 23-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 5             4     Frijol     $22    $88
+ 9             6     Maruchan     $10    $60
+ 6             4     Azucar     $22    $88
+ 2             2     PanBimbo     $15    $30
+ 3             4     Arroz     $20    $80
+ 1             3     CocaCola     $15    $45
+ 8             1     Sopa     $13    $13
+ 4             2     Manzanita Sol     $13    $26
+ 10             2     Cereal     $25    $50
+ 7             4     Agua     $10    $40
+----------------------------------------------------
+                                      Subtotal:520.0
+                                      IVA: 0.5
+                                      Total: $527.8
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 24-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 2             7     PanBimbo     $15    $105
+ 1             2     CocaCola     $15    $30
+ 7             2     Agua     $10    $20
+ 9             2     Maruchan     $10    $20
+ 6             3     Azucar     $22    $66
+ 8             2     Sopa     $13    $26
+ 3             1     Arroz     $20    $20
+ 5             1     Frijol     $22    $22
+ 4             2     Manzanita Sol     $13    $26
+----------------------------------------------------
+                                      Subtotal:335.0
+                                      IVA: 0.5
+                                      Total: $340.025
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 26-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 2             4     PanBimbo     $15    $60
+ 7             4     Agua     $10    $40
+ 10             4     Cereal     $25    $100
+ 4             4     Manzanita Sol     $13    $52
+ 6             2     Azucar     $22    $44
+ 3             4     Arroz     $20    $80
+ 8             1     Sopa     $13    $13
+ 9             4     Maruchan     $10    $40
+ 5             2     Frijol     $22    $44
+ 1             1     CocaCola     $15    $15
+----------------------------------------------------
+                                      Subtotal:488.0
+                                      IVA: 0.5
+                                      Total: $495.32
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 25-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 6             1     Azucar     $22    $22
+ 3             1     Arroz     $20    $20
+ 4             1     Manzanita Sol     $13    $13
+ 8             1     Sopa     $13    $13
+----------------------------------------------------
+                                      Subtotal:68.0
+                                      IVA: 0.5
+                                      Total: $69.02
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 27-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 1             1     CocaCola     $15    $15
+ 8             5     Sopa     $13    $65
+ 4             6     Manzanita Sol     $13    $78
+ 10             3     Cereal     $25    $75
+ 7             3     Agua     $10    $30
+ 6             4     Azucar     $22    $88
+ 9             5     Maruchan     $10    $50
+ 2             3     PanBimbo     $15    $45
+ 3             3     Arroz     $20    $60
+ 5             5     Frijol     $22    $110
+----------------------------------------------------
+                                      Subtotal:616.0
+                                      IVA: 0.5
+                                      Total: $625.24
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 28-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 9             2     Maruchan     $10    $20
+ 3             3     Arroz     $20    $60
+ 6             3     Azucar     $22    $66
+ 7             3     Agua     $10    $30
+ 1             4     CocaCola     $15    $60
+ 5             5     Frijol     $22    $110
+ 10             3     Cereal     $25    $75
+ 4             5     Manzanita Sol     $13    $65
+ 8             1     Sopa     $13    $13
+ 2             2     PanBimbo     $15    $30
+----------------------------------------------------
+                                      Subtotal:529.0
+                                      IVA: 0.5
+                                      Total: $536.935
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 29-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 3             1     Arroz     $20    $20
+ 2             2     PanBimbo     $15    $30
+ 6             1     Azucar     $22    $22
+ 8             1     Sopa     $13    $13
+ 10             1     Cereal     $25    $25
+ 1             1     CocaCola     $15    $15
+----------------------------------------------------
+                                      Subtotal:125.0
+                                      IVA: 0.5
+                                      Total: $126.875
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 30-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 7             7     Agua     $10    $70
+ 3             3     Arroz     $20    $60
+ 5             7     Frijol     $22    $154
+ 9             6     Maruchan     $10    $60
+ 10             4     Cereal     $25    $100
+ 8             7     Sopa     $13    $91
+ 1             4     CocaCola     $15    $60
+ 6             5     Azucar     $22    $110
+ 4             4     Manzanita Sol     $13    $52
+ 2             2     PanBimbo     $15    $30
+----------------------------------------------------
+                                      Subtotal:787.0
+                                      IVA: 0.5
+                                      Total: $798.805
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 31-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 7             2     Agua     $10    $20
+ 2             1     PanBimbo     $15    $15
+ 3             1     Arroz     $20    $20
+ 9             1     Maruchan     $10    $10
+ 10             1     Cereal     $25    $25
+ 1             1     CocaCola     $15    $15
+ 6             1     Azucar     $22    $22
+ 5             2     Frijol     $22    $44
+ 8             2     Sopa     $13    $26
+----------------------------------------------------
+                                      Subtotal:197.0
+                                      IVA: 0.5
+                                      Total: $199.955
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 32-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 9             1     Maruchan     $10    $10
+ 2             2     PanBimbo     $15    $30
+ 10             3     Cereal     $25    $75
+ 1             2     CocaCola     $15    $30
+ 4             1     Manzanita Sol     $13    $13
+ 5             2     Frijol     $22    $44
+ 6             2     Azucar     $22    $44
+----------------------------------------------------
+                                      Subtotal:246.0
+                                      IVA: 0.5
+                                      Total: $249.69
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 34-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 3             2     Arroz     $20    $40
+ 8             4     Sopa     $13    $52
+ 4             3     Manzanita Sol     $13    $39
+ 5             2     Frijol     $22    $44
+ 2             5     PanBimbo     $15    $75
+ 10             2     Cereal     $25    $50
+ 7             3     Agua     $10    $30
+ 6             2     Azucar     $22    $44
+ 1             1     CocaCola     $15    $15
+----------------------------------------------------
+                                      Subtotal:389.0
+                                      IVA: 0.5
+                                      Total: $394.835
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 36-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 10             1     Cereal     $25    $25
+ 6             2     Azucar     $22    $44
+ 8             2     Sopa     $13    $26
+ 4             2     Manzanita Sol     $13    $26
+ 1             2     CocaCola     $15    $30
+ 7             1     Agua     $10    $10
+----------------------------------------------------
+                                      Subtotal:161.0
+                                      IVA: 0.5
+                                      Total: $163.415
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 33-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 7             5     Agua     $10    $50
+ 8             7     Sopa     $13    $91
+ 9             6     Maruchan     $10    $60
+ 10             3     Cereal     $25    $75
+ 3             7     Arroz     $20    $140
+ 4             3     Manzanita Sol     $13    $39
+ 1             5     CocaCola     $15    $75
+ 6             4     Azucar     $22    $88
+ 5             2     Frijol     $22    $44
+ 2             2     PanBimbo     $15    $30
+----------------------------------------------------
+                                      Subtotal:692.0
+                                      IVA: 0.5
+                                      Total: $702.38
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 37-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 1             1     CocaCola     $15    $15
+ 9             1     Maruchan     $10    $10
+ 10             2     Cereal     $25    $50
+ 6             1     Azucar     $22    $22
+----------------------------------------------------
+                                      Subtotal:97.0
+                                      IVA: 0.5
+                                      Total: $98.455
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 38-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 8             4     Sopa     $13    $52
+ 10             2     Cereal     $25    $50
+ 4             3     Manzanita Sol     $13    $39
+ 7             3     Agua     $10    $30
+ 6             5     Azucar     $22    $110
+ 1             4     CocaCola     $15    $60
+ 3             4     Arroz     $20    $80
+ 9             9     Maruchan     $10    $90
+ 2             5     PanBimbo     $15    $75
+ 5             2     Frijol     $22    $44
+----------------------------------------------------
+                                      Subtotal:630.0
+                                      IVA: 0.5
+                                      Total: $639.45
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 35-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 9             8     Maruchan     $10    $80
+ 7             6     Agua     $10    $60
+ 3             4     Arroz     $20    $80
+ 1             4     CocaCola     $15    $60
+ 6             2     Azucar     $22    $44
+ 2             8     PanBimbo     $15    $120
+ 10             3     Cereal     $25    $75
+ 8             7     Sopa     $13    $91
+ 5             4     Frijol     $22    $88
+ 4             4     Manzanita Sol     $13    $52
+----------------------------------------------------
+                                      Subtotal:750.0
+                                      IVA: 0.5
+                                      Total: $761.25
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 39-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 8             1     Sopa     $13    $13
+ 4             1     Manzanita Sol     $13    $13
+ 1             1     CocaCola     $15    $15
+ 3             3     Arroz     $20    $60
+ 7             1     Agua     $10    $10
+ 5             1     Frijol     $22    $22
+----------------------------------------------------
+                                      Subtotal:133.0
+                                      IVA: 0.5
+                                      Total: $134.995
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 40-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 5             2     Frijol     $22    $44
+ 8             1     Sopa     $13    $13
+ 7             2     Agua     $10    $20
+ 2             1     PanBimbo     $15    $15
+ 10             1     Cereal     $25    $25
+ 4             1     Manzanita Sol     $13    $13
+ 1             2     CocaCola     $15    $30
+ 9             1     Maruchan     $10    $10
+ 6             1     Azucar     $22    $22
+----------------------------------------------------
+                                      Subtotal:192.0
+                                      IVA: 0.5
+                                      Total: $194.88
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 41-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 8             5     Sopa     $13    $65
+ 4             4     Manzanita Sol     $13    $52
+ 3             3     Arroz     $20    $60
+ 10             7     Cereal     $25    $175
+ 5             4     Frijol     $22    $88
+ 6             5     Azucar     $22    $110
+ 2             3     PanBimbo     $15    $45
+ 9             3     Maruchan     $10    $30
+ 7             5     Agua     $10    $50
+ 1             11     CocaCola     $15    $165
+----------------------------------------------------
+                                      Subtotal:840.0
+                                      IVA: 0.5
+                                      Total: $852.6
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 42-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 1             3     CocaCola     $15    $45
+ 6             1     Azucar     $22    $22
+ 2             1     PanBimbo     $15    $15
+ 5             1     Frijol     $22    $22
+ 7             1     Agua     $10    $10
+ 8             2     Sopa     $13    $26
+----------------------------------------------------
+                                      Subtotal:140.0
+                                      IVA: 0.5
+                                      Total: $142.1
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 44-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 4             6     Manzanita Sol     $13    $78
+ 8             6     Sopa     $13    $78
+ 6             2     Azucar     $22    $44
+ 5             4     Frijol     $22    $88
+ 1             3     CocaCola     $15    $45
+ 9             4     Maruchan     $10    $40
+ 2             8     PanBimbo     $15    $120
+ 10             6     Cereal     $25    $150
+ 3             4     Arroz     $20    $80
+ 7             2     Agua     $10    $20
+----------------------------------------------------
+                                      Subtotal:743.0
+                                      IVA: 0.5
+                                      Total: $754.145
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 43-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 4             3     Manzanita Sol     $13    $39
+ 1             2     CocaCola     $15    $30
+ 3             1     Arroz     $20    $20
+ 9             2     Maruchan     $10    $20
+ 8             1     Sopa     $13    $13
+----------------------------------------------------
+                                      Subtotal:122.0
+                                      IVA: 0.5
+                                      Total: $123.83
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 45-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 10             1     Cereal     $25    $25
+ 4             1     Manzanita Sol     $13    $13
+----------------------------------------------------
+                                      Subtotal:38.0
+                                      IVA: 0.5
+                                      Total: $38.57
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 46-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 8             2     Sopa     $13    $26
+ 10             4     Cereal     $25    $100
+ 6             3     Azucar     $22    $66
+ 1             3     CocaCola     $15    $45
+ 4             5     Manzanita Sol     $13    $65
+ 3             5     Arroz     $20    $100
+ 7             6     Agua     $10    $60
+ 9             5     Maruchan     $10    $50
+ 2             2     PanBimbo     $15    $30
+----------------------------------------------------
+                                      Subtotal:542.0
+                                      IVA: 0.5
+                                      Total: $550.13
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 47-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 6             2     Azucar     $22    $44
+ 10             4     Cereal     $25    $100
+ 3             4     Arroz     $20    $80
+ 5             4     Frijol     $22    $88
+ 2             2     PanBimbo     $15    $30
+ 1             2     CocaCola     $15    $30
+ 9             1     Maruchan     $10    $10
+----------------------------------------------------
+                                      Subtotal:382.0
+                                      IVA: 0.5
+                                      Total: $387.73
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 48-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 8             3     Sopa     $13    $39
+ 7             5     Agua     $10    $50
+ 3             3     Arroz     $20    $60
+ 10             2     Cereal     $25    $50
+ 1             3     CocaCola     $15    $45
+ 9             1     Maruchan     $10    $10
+ 5             2     Frijol     $22    $44
+ 6             1     Azucar     $22    $22
+----------------------------------------------------
+                                      Subtotal:320.0
+                                      IVA: 0.5
+                                      Total: $324.8
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 49-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 7             7     Agua     $10    $70
+ 9             3     Maruchan     $10    $30
+ 4             2     Manzanita Sol     $13    $26
+ 6             4     Azucar     $22    $88
+ 8             6     Sopa     $13    $78
+ 3             2     Arroz     $20    $40
+ 1             4     CocaCola     $15    $60
+ 10             4     Cereal     $25    $100
+ 2             2     PanBimbo     $15    $30
+ 5             3     Frijol     $22    $66
+----------------------------------------------------
+                                      Subtotal:588.0
+                                      IVA: 0.5
+                                      Total: $596.82
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 50-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 7             5     Agua     $10    $50
+ 3             1     Arroz     $20    $20
+ 4             3     Manzanita Sol     $13    $39
+ 1             6     CocaCola     $15    $90
+ 10             6     Cereal     $25    $150
+ 9             6     Maruchan     $10    $60
+ 8             3     Sopa     $13    $39
+ 5             4     Frijol     $22    $88
+ 6             4     Azucar     $22    $88
+ 2             4     PanBimbo     $15    $60
+----------------------------------------------------
+                                      Subtotal:684.0
+                                      IVA: 0.5
+                                      Total: $694.26
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 51-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 2             2     PanBimbo     $15    $30
+ 3             1     Arroz     $20    $20
+ 6             3     Azucar     $22    $66
+ 4             3     Manzanita Sol     $13    $39
+ 7             2     Agua     $10    $20
+ 8             1     Sopa     $13    $13
+ 5             1     Frijol     $22    $22
+ 9             1     Maruchan     $10    $10
+ 10             1     Cereal     $25    $25
+----------------------------------------------------
+                                      Subtotal:245.0
+                                      IVA: 0.5
+                                      Total: $248.675
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 53-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 5             1     Frijol     $22    $22
+ 6             6     Azucar     $22    $132
+ 1             3     CocaCola     $15    $45
+ 7             2     Agua     $10    $20
+ 10             6     Cereal     $25    $150
+ 8             9     Sopa     $13    $117
+ 4             2     Manzanita Sol     $13    $26
+ 3             1     Arroz     $20    $20
+ 2             2     PanBimbo     $15    $30
+ 9             2     Maruchan     $10    $20
+----------------------------------------------------
+                                      Subtotal:582.0
+                                      IVA: 0.5
+                                      Total: $590.73
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 52-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 7             6     Agua     $10    $60
+ 4             6     Manzanita Sol     $13    $78
+ 5             5     Frijol     $22    $110
+ 1             7     CocaCola     $15    $105
+ 10             7     Cereal     $25    $175
+ 3             6     Arroz     $20    $120
+ 9             2     Maruchan     $10    $20
+ 6             3     Azucar     $22    $66
+ 2             2     PanBimbo     $15    $30
+ 8             5     Sopa     $13    $65
+----------------------------------------------------
+                                      Subtotal:829.0
+                                      IVA: 0.5
+                                      Total: $841.435
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 54-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 8             3     Sopa     $13    $39
+ 1             3     CocaCola     $15    $45
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+Producto Cancelado......... 
+----------------------------------------------------
+                                      Subtotal:84.0
+                                      IVA: 0.5
+                                      Total: $85.26
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+
+# 55-TICKET DE COMPRA
+----------------------------------------------------
+#Producto  Cantidad  Nombre    Precio   Total
+ 3             5     Arroz     $20    $100
+ 4             5     Manzanita Sol     $13    $65
+ 1             3     CocaCola     $15    $45
+ 6             6     Azucar     $22    $132
+ 8             2     Sopa     $13    $26
+ 5             1     Frijol     $22    $22
+ 9             2     Maruchan     $10    $20
+ 2             1     PanBimbo     $15    $15
+----------------------------------------------------
+                                      Subtotal:425.0
+                                      IVA: 0.5
+                                      Total: $431.375
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+

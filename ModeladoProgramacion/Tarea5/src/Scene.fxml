@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SplitMenuButton?>
+<?import javafx.scene.effect.Light.Distant?>
+<?import javafx.scene.effect.Lighting?>
+<?import javafx.scene.effect.Shadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="509.0" prefWidth="789.0" style="-fx-background-color: #CD5C5C;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="FXMLController">
+   <children>
+      <Button fx:id="refresco" layoutX="256.0" layoutY="179.0" mnemonicParsing="false" onAction="#onActionRefresco" prefHeight="38.0" prefWidth="157.0" text="Refresco">
+         <font>
+            <Font size="19.0" />
+         </font></Button>
+      <SplitMenuButton layoutX="46.0" layoutY="179.0" mnemonicParsing="false" prefHeight="33.0" prefWidth="157.0" text="Pizza">
+        <items>
+            <Menu fx:id="menuPeperoni" mnemonicParsing="false" onMenuValidation="#onMenuPeperoni" text="Pepperoni">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#onActionChica" text="Chica" />
+                <MenuItem mnemonicParsing="false" onAction="#onActionMediana" text="Mediana" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionGrande" text="Grande" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionFamiliar" text="Familiar" />
+              </items>
+            </Menu>
+            <Menu mnemonicParsing="false" onMenuValidation="#onMenuHawaiana" text="Hawaiana">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#onActionChica" text="Chica " />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionMediana" text="Mediana" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionGrande" text="Grande" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionFamiliar" text="Familiar" />
+              </items>
+            </Menu>
+            <Menu mnemonicParsing="false" onMenuValidation="#onMenuMexicana" text="Mexicana">
+              <items>
+                  <MenuItem mnemonicParsing="false" onAction="#onActionChica" text="Chica" />
+                <MenuItem mnemonicParsing="false" onAction="#onActionMediana" text="Mediana" />
+                <MenuItem mnemonicParsing="false" onAction="#onActionGrande" text="Grande" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionFamiliar" text="Familiar" />
+              </items>
+            </Menu>
+            <Menu mnemonicParsing="false" onMenuValidation="#onMenuCuatro" text="Cuatro quesos">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#onActionChica" text="Chica" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionMediana" text="Mediana" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionGrande" text="Grande" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionFamiliar" text="Familiar" />
+              </items>
+            </Menu>
+            <Menu mnemonicParsing="false" onMenuValidation="#onMenuPollo" text="Pollo">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#onActionChica" text="Chica" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionMediana" text="Mediana" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionGrande" text="Grande" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionFamiliar" text="Familiar" />
+              </items>
+            </Menu>
+            <Menu mnemonicParsing="false" onMenuValidation="#onMenuVegeriana" text="Vegetariana">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#onActionChica" text="Chica" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionMediana" text="Mediana" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionGrande" text="Grande" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionFamiliar" text="Familiar" />
+              </items>
+            </Menu>
+            <Menu mnemonicParsing="false" onMenuValidation="#onMenuEspecial" text="Especial">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#onActionChica" text="Chica" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionMediana" text="Mediana" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionGrande" text="Grande" />
+                  <MenuItem mnemonicParsing="false" onAction="#onActionFamiliar" text="Familiar" />
+               </items>
+            </Menu>
+        </items>
+         <font>
+            <Font size="19.0" />
+         </font>
+      </SplitMenuButton>
+      <Label layoutX="300.0" layoutY="14.0" onMouseClicked="#onAdmi" prefHeight="51.0" prefWidth="190.0" text="Pizzeria">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="53.0" layoutY="85.0" prefHeight="26.0" prefWidth="201.0" text="Escoja lo mas prefiera:">
+         <font>
+            <Font size="15.0" />
+         </font></Label>
+      <Button fx:id="cerveza" layoutX="256.0" layoutY="327.0" mnemonicParsing="false" onAction="#onActionCerveza" prefHeight="38.0" prefWidth="157.0" text="Cerveza">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Button>
+      <Button fx:id="fresas" layoutX="256.0" layoutY="228.0" mnemonicParsing="false" onAction="#onActionFresas" prefHeight="38.0" prefWidth="157.0" text="Fresas">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Button>
+      <Button fx:id="flan" layoutX="256.0" layoutY="379.0" mnemonicParsing="false" onAction="#onActionFlan" prefHeight="38.0" prefWidth="157.0" text="Flan">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Button>
+      <Button fx:id="jugo" layoutX="256.0" layoutY="280.0" mnemonicParsing="false" onAction="#onActionJugo" prefHeight="38.0" prefWidth="157.0" text="Jugo">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Button>
+      <Button layoutX="546.0" layoutY="379.0" mnemonicParsing="false" onAction="#onActionPagar" prefHeight="46.0" prefWidth="220.0" text="Pagar">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <Label layoutX="425.0" layoutY="185.0" prefHeight="26.0" prefWidth="65.0" text="\$ 25">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="425.0" layoutY="234.0" prefHeight="26.0" prefWidth="56.0" text="\$ 15">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="425.0" layoutY="287.0" text="\$ 15">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="425.0" layoutY="334.0" text="\$ 20">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="425.0" layoutY="386.0" text="\$ 15">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="46.0" layoutY="261.0" prefHeight="38.0" prefWidth="141.0" text="Chica -&gt; $ 80" textAlignment="JUSTIFY">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="46.0" layoutY="315.0" prefHeight="38.0" prefWidth="181.0" text="Mediana -&gt; $ 120">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="46.0" layoutY="363.0" prefHeight="46.0" prefWidth="167.0" text="Grande -&gt; $ 160">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="46.0" layoutY="417.0" prefHeight="46.0" prefWidth="201.0" text="Familiar -&gt; $ 200">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <SplitMenuButton layoutX="247.0" layoutY="440.0" mnemonicParsing="false" prefHeight="46.0" prefWidth="296.0" text="Paquetes con 20% de descuento">
+        <items>
+          <MenuItem mnemonicParsing="false" text="Pizza Mediana Perperoni mas refresco" />
+          <MenuItem mnemonicParsing="false" text="Pizza Grande Hawaiana mas refresco" />
+            <MenuItem mnemonicParsing="false" text="Pizza Grande Mexicanas mas refresco" />
+            <MenuItem mnemonicParsing="false" text="Dos Pizzas Medianas Peperoni mas refresco" />
+            <MenuItem mnemonicParsing="false" text="Dos Pizzas Medianas Mexicana mas dos cervezas" />
+        </items>
+         <font>
+            <Font size="15.0" />
+         </font>
+      </SplitMenuButton>
+      <Label fx:id="lista" layoutX="546.0" layoutY="84.0" prefHeight="274.0" prefWidth="220.0" style="-fx-background-color: #ffffff;">
+         <effect>
+            <Lighting>
+               <bumpInput>
+                  <Shadow />
+               </bumpInput>
+               <light>
+                  <Light.Distant />
+               </light>
+            </Lighting>
+         </effect>
+      </Label>
+      <Button fx:id="saliir" layoutX="642.0" layoutY="450.0" mnemonicParsing="false" onAction="#onActionSalir" prefHeight="26.0" prefWidth="124.0" text="Salir" />
+   </children>
+   <effect>
+      <Lighting>
+         <bumpInput>
+            <Shadow />
+         </bumpInput>
+         <light>
+            <Light.Distant color="#ff8484" />
+         </light>
+      </Lighting>
+   </effect>
+</AnchorPane>
