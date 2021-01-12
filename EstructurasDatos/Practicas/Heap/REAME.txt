@@ -1,4 +1,5 @@
 Nombre del alumno: Cruz Perez Ramon
-Numero de cuenta: 315008148
 
+Implentacion de Max Heap and Min Heap. 
+Usando arreglos y practicas anteriores.
 Nota: Las Pruebas las hice en "Prueba.java"
